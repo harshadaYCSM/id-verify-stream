@@ -35,5 +35,6 @@ Thumbs.db
 .gradle/
 *.class
 
-# Vite
+# Vite / TypeScript
 *.local
+*.tsbuildinfo
